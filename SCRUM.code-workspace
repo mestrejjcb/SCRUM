@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../xampp/htdocs/task_manager1/controllers"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/task_manager1/css"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/task_manager1/db"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/task_manager1/js"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/task_manager1/models"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/task_manager1/views"
+		}
+	],
+	"settings": {}
+}
